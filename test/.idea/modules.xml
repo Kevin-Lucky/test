@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AJAX&amp;JSON/AJAX&amp;JSON.iml" filepath="$PROJECT_DIR$/../AJAX&amp;JSON/AJAX&amp;JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bootstrap/Bootstrap.iml" filepath="$PROJECT_DIR$/../Bootstrap/Bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JQuery/JQuery.iml" filepath="$PROJECT_DIR$/../JQuery/JQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Redis/Redis.iml" filepath="$PROJECT_DIR$/../Redis/Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cookie/cookie.iml" filepath="$PROJECT_DIR$/../cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day04-jdbc/day04-jdbc.iml" filepath="$PROJECT_DIR$/../day04-jdbc/day04-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../downloadfile/downloadfile.iml" filepath="$PROJECT_DIR$/../downloadfile/downloadfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../html&amp;css/html&amp;css.iml" filepath="$PROJECT_DIR$/../html&amp;css/html&amp;css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jdbc-c3p0/jdbc-c3p0.iml" filepath="$PROJECT_DIR$/../jdbc-c3p0/jdbc-c3p0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jdbc-druid/jdbc-druid.iml" filepath="$PROJECT_DIR$/../jdbc-druid/jdbc-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../logintest/logintest.iml" filepath="$PROJECT_DIR$/../logintest/logintest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mvc_case/mvc_case.iml" filepath="$PROJECT_DIR$/../mvc_case/mvc_case.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tomcat/tomcat.iml" filepath="$PROJECT_DIR$/../tomcat/tomcat.iml" />
     </modules>
   </component>
 </project>

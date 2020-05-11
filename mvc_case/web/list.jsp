@@ -109,9 +109,9 @@
                 <th>性别</th>
                 <th>年龄</th>
                 <th>籍贯</th>
-                <th>QQ</th>
-                <th>邮箱</th>
-                <th>操作</th>
+                <th>Q箱</th>
+                <th>操Q</th>
+                <th>邮作</th>
             </tr>
 
             <c:forEach items="${pb.list}" var="user" varStatus="s">

@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="uploadfile11">
-    <output-path>E:/uploadfile11</output-path>
-    <root id="archive" name="uploadfile11.war" />
-  </artifact>
-</component>
